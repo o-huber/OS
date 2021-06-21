@@ -1,0 +1,27 @@
+﻿  lab4.cpp
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(15,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(103,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(174,1): warning C4138: "*/" найден вне комментария
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(174,2): error C2059: синтаксическая ошибка: /
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(174,3): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\mutex(30,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\mutex(30,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(183,5): error C2374: N: переопределение; множественная инициализация
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(9): message : см. объявление "N"
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(211,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(211,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "m"
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(214,2): error C2065: m: необъявленный идентификатор
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(218,2): error C2065: m: необъявленный идентификатор
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(222,2): error C2065: m: необъявленный идентификатор
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(226,2): error C2065: m: необъявленный идентификатор
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(244,3): error C2065: m: необъявленный идентификатор
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(246,3): error C2065: m: необъявленный идентификатор
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(252,3): error C2065: m: необъявленный идентификатор
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(254,3): error C2065: m: необъявленный идентификатор
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(271,5): error C2084: функция "int main(void)" уже имеет текст реализации
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(139): message : см. предыдущее определение "main"
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(276,6): warning C4138: "*/" найден вне комментария
+D:\Универ\3course\OS\lab4\lab4\lab4.cpp(276,7): error C2059: синтаксическая ошибка: /
+  lab4_matrix.cpp
+  Создание кода...
